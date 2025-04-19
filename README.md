@@ -25,6 +25,3 @@ The dataset used:
 - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)  
 
 
-   ```sh
-   git clone https://github.com/your-username/wine-quality-prediction.git
-   cd wine-quality-prediction
